@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    width: 960px;
+    
+}
+
+.grid-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.grid-box {
+    border: 1px solid blue;
+    background-color: #f8f8ff;
+}
+
+.input-button {
+    margin-bottom: 100px;
+}
